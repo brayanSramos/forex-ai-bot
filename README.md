@@ -26,21 +26,17 @@ const Proyectos = [
 ![Lej: braynSramos](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Lej: braynSramos](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![Lej: braynSramos](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ![Lej: braynSramos](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
 ![Lej: braynSramos](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Lej: braynSramos](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Lej: braynSramos](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Lej: braynSramos](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Lej: braynSramos](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
 ![Lej: braynSramos](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 ![Lej: braynSramos](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Lej: braynSramos](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![Lej: braynSramos](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Lej: braynSramos](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
 ![Lej: braynSramos](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Lej: braynSramos](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Lej: braynSramos](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
@@ -55,6 +51,3 @@ const Proyectos = [
   
 [![Twitter: braynSramos](https://img.shields.io/twitter/follow/BraynSRamos?style=social)](https://x.com/BraynSRamos)
 [![Discord: braynSramos](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://discord.com/channels/@me)
-
- <p align="center">
- <img src="https://github.com/brayanSramos/brayanSramos/blob/main/braynramos.gif" align="center" alt="BraynSramosAnimacion" />
