@@ -1,4 +1,4 @@
- <h2 align="center">Proyectos Forex ai bot 👾</h2>
+ <h2 align="center">👾 Forex ai bot 👾</h2>
 
 Este proyectos esta crados en:
 `MQL5`, `Python`, `PostgreSQL`,``, `` y ``
